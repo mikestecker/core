@@ -40,7 +40,7 @@
   "dependencies": {
     "@babel/runtime": "^7.13.10",
     "@types/unist": "^2.0.3",
-    "hast-util-from-parse5": "^6.0.1",
+    "hast-util-from-parse5": "^7.0.0",
     "parse5": "^6.0.1",
     "unified": "^9.2.1",
     "unist-util-visit": "^2.0.3"
